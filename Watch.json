@@ -1,7 +1,6 @@
-
 {
-  id: 1,
-  mark: "TAG Heuer"
-  model: "Formula 1 Chronograph x Red Bull Racing",
-  price: "9.650 zł",
+    "id": "1",
+    "mark": "TAG Heuer",
+    "model": "Formula 1 Chronograph x Red Bull Racing",
+    "price": "9.650 zł"
 }

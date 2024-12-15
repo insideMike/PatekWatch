@@ -1,6 +1,6 @@
 {
-  id: 2,
-  mark: "Rolex"
-  model: "Daytona",
-  price: "126500 zł",
+  "id": 2,
+  "mark": "Rolex",
+  "model": "Daytona",
+  "price": "126500 zł"
 }
